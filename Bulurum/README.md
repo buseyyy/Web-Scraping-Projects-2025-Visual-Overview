@@ -1,4 +1,4 @@
-# 🏋️‍♀️ Proje 1 – Bulurum.com: İstanbul Spor Salonu Verileri
+# 🏋️‍♀️ Proje 2 – Bulurum.com: İstanbul Spor Salonu Verileri
 
 Bu projede, [bulurum.com](https://www.bulurum.com/search/spor-salonu/istanbul/) üzerinden İstanbul’daki spor salonlarına ait veriler çekilmiştir.  
 
