@@ -4,6 +4,7 @@ Bu repoda, çeşitli web sitelerinden veri çekmek amacıyla gerçekleştirdiği
 - Python
 - Requests
 - BeautifulSoup
+- Selenium
 - Javascript
 
 ## Projelerin temel amaçları:
@@ -14,4 +15,5 @@ Bu repoda, çeşitli web sitelerinden veri çekmek amacıyla gerçekleştirdiği
 ## 📌 Notlar
 - Bu görseller, projelerin nasıl çalıştığına dair genel bir fikir vermek ve scraping süreçlerinde elde edilen sonuçları göstermek için paylaşılmıştır.
 - Kod paylaşımı yapılmamıştır, sadece sonuç görselleri eklenmiştir. Kodlar private olarak paylaşıldı.
+- Herhangi bir sorunuz ya da yardım talebiniz için bsylm@outlook.com adresinden benimle iletişime geçebilirsiniz.
 
