@@ -1,4 +1,4 @@
-### ✍️ Proje 1 – Quotes to Scrape: Alıntı Verilerinin Çekilmesi
+# ✍️ Proje 1 – Quotes to Scrape: Alıntı Verilerinin Çekilmesi
 
 Bu projede, [Quotes to Scrape](https://quotes.toscrape.com/) adlı siteden **alıntılar, yazar isimleri ve etiketler** gibi bilgiler çekilmiştir.  
 
